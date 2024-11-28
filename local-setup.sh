@@ -28,3 +28,5 @@ sdk install java $JAVA_VERSION
 echo "Installing maven "$MAVEN_VERSION" ..."
 sdk install maven $MAVEN_VERSION
 
+echo "Installing gnupg..."
+brew install gnupg
