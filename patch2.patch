@@ -1,0 +1,13 @@
+diff --git a/patch-test/file1.txt b/patch-test/file1.txt
+index fd1b76c..197a328 100644
+--- a/patch-test/file1.txt
++++ b/patch-test/file1.txt
+@@ -1,5 +1,7 @@
+-line1
++line11
++line12
+ line21
+ line22
+ line3
+ line4
++line5
